@@ -1,0 +1,5 @@
+IOC Type,Value,Risk Level,Description,Source
+Domain,police.gov.gh,Critical,Ghana Police Service compromised,darkforums.st
+URL,https://bcam.police.gov.gh/7f7fs...,Critical,Bodycam surveillance panel,screenshot
+Actor,Joker07x,High,Dark 07x threat actor,Telegram
+Telegram,https://t.me/JokeirR07x,High,Actor chat channel,Telegram
